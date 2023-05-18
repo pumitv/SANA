@@ -3,6 +3,6 @@
 https://github.com/viswaah/vercel-redirect.git
 
 
-GRAPHQL_ENDPOINT="https://wordpressite.com/graphql/"
+GRAPHQL_ENDPOINT="https://sanainbox.com/graphql/"
 
 .env.local
